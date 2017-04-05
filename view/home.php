@@ -1,0 +1,1 @@
+<div class='home'>Bienvenue sur le site de vente aux enchères de la criée de Poulgoazec</div>
