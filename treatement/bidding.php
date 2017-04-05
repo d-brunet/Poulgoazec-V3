@@ -48,4 +48,5 @@ $bdd = new PDO('mysql:host=localhost;dbname=POULGOAZEC','root','ArtemisLL');
 			'.$error[2];
 		}
 	}
+        //un commentaire
 ?>
