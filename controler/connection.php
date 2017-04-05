@@ -5,8 +5,6 @@
 		$action = $_GET['action'];
 	}
 
-        //ceci est un test
-        
 	switch($action){
 		case 'check':
 			$req_check = $bdd->prepare('SELECT Id, statut FROM UTILISATEUR WHERE Login = :login AND Pwd = :pwd;');
